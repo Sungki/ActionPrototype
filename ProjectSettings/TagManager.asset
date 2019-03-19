@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Sword
+  - Enemy
+  - UI
+  - AudioManager
+  - LevelManager
+  - Pause
+  - enemy
+  - Ground
+  - EnemyHitbox
+  - AttackHitbox
+  - Archer
+  - EnemyArrow
+  - Mana
+  - ClosedDoor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PlayerSpecial
+  - Sword
+  - EnemyCollision
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 3020872701
+    locked: 0
+  - name: Ground Details
+    uniqueID: 557405211
+    locked: 0
+  - name: Path Collisions | Bottom
+    uniqueID: 1206060387
+    locked: 0
+  - name: Player
+    uniqueID: 3633657523
+    locked: 0
+  - name: Path Collisions | Top
+    uniqueID: 2608453455
+    locked: 0
+  - name: Enemy
+    uniqueID: 2375646909
+    locked: 0
+  - name: Foreground 1
+    uniqueID: 3282705501
+    locked: 0
+  - name: Foreground 2
+    uniqueID: 2030235
+    locked: 0
